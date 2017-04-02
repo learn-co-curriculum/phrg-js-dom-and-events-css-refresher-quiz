@@ -44,8 +44,8 @@
 
 ?: An element can only have one class at a time
 
-(X) True
-( ) False
+( ) True
+(X) False
 
 
 ?: An element can have multiple ID's, separated by a space
