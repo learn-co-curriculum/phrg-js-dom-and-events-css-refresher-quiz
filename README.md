@@ -65,7 +65,7 @@
 
 ( ) `header`
 (X) `#header`
-() `.header.header-dark`
+( ) `.header.header-dark`
 
 
 ?: You can use JS to select DOM nodes.
