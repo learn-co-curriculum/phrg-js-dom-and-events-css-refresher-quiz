@@ -44,8 +44,8 @@
 
 ?: An element can only have one class at a time
 
-(X) True
-( ) False
+( ) True
+(X) False
 
 
 ?: An element can have multiple ID's, separated by a space
@@ -65,7 +65,7 @@
 
 ( ) `header`
 (X) `#header`
-() `.header.header-dark`
+( ) `.header.header-dark`
 
 
 ?: You can use JS to select DOM nodes.
